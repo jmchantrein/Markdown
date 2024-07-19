@@ -6,6 +6,7 @@ Markdown est un langage de balisage léger qui permet de formater du texte en ut
 Il est couramment utilisé pour la documentation, les blogs, et les fichiers README sur GitHub.
 L'objectif de Markdown est de rendre le texte aussi lisible que possible en format brut tout en permettant un formatage simple.
 Le rendu sera différent en fonction du formatage choisit (github, html, pdf, ...).
+
 [Lien vers la page wikipedia](https://fr.wikipedia.org/wiki/Markdown)
 
 ## Syntaxe de base
